@@ -25,8 +25,8 @@ Seattle Airbnb Data Analysis.ipynb
 
 This notebook presents the word related to addressing the above questions. The code for cleaning, engineering, and modeling data along with the markdown describing the process is presented.
 
-listings.csv
-calendar.csv
+listings.csv,
+calendar.csv,
 reviews.csv
 
 These files contains the data used to perform the analysis. The listings file is for Airbnb, Seattle. The original source of the file is Kaggle.
