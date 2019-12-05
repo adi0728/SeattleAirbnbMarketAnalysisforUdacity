@@ -29,7 +29,7 @@ listings.csv
 calendar.csv
 reviews.csv
 
-This file contains the data used to perform the analysis. The listings file is for Airbnb, Seattle. The original source of the file is Kaggle.
+These files contains the data used to perform the analysis. The listings file is for Airbnb, Seattle. The original source of the file is Kaggle.
 
 # 4. How to interact with the project
 The necessary steps for the entire data analysis pipeline is described in a step-wise manner in the Jupyter notebook. The data can be downloaded from here. Following data download the notebook cells can be re-run without changes or modifications can be made that attempt to improve upon the existing analysis. A summary of major insight gained from the analysis includes:
