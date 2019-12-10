@@ -33,7 +33,7 @@ The necessary steps for the entire data analysis pipeline is described in a step
 a) Neighborhood groups play an important role in price determination. However, in combination with other features of listing the price can set to gain suitable profit margins.
 b) Some neighbourhoods have more positive reviews vs. others owing to multiple features that are not explored in this project. However, positive reviews does not mean higher price capabilities for the regions. 
 
-The major findings can be found at the post available here.
+The major findings can be found at the post here - https://medium.com/@adithya.papakollu/seattle-airbnb-property-price-analysis-a86453c52923.
 
 # 5. Licensing and Acknowledgements
 The licensing for the data and related information can be found in the Kaggle link available here. I would like to thank the mentors at Udacity for coaching necessary background skills in Data Analysis.
